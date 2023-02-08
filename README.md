@@ -30,4 +30,4 @@ Testy zostaną uruchomione po wpisaniu komendy:
 pytest (w terminalu)
 
 Niektóre przykładowe pliki mogą wymagać podmienienia ścieżki dla Chromedrivera (w ramach złych praktyk :)).
-![image](https://user-images.githubusercontent.com/1006180/217482860-f8fe9143-e38a-4907-81fb-1bfc7eff74b6.png)
+
