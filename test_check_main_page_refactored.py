@@ -2,7 +2,6 @@ import string
 import time
 import my_account_page
 from random import choice
-from telnetlib import EC
 
 from selenium.webdriver.common.by import By
 
